@@ -77,3 +77,5 @@ Debug
 Release
 CMakeLists.txt.user
 
+c/
+.vscode/
