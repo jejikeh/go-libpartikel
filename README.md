@@ -1,5 +1,5 @@
-# libpartikel
-Libpartikel is a header only particle system written in C99 with and for [raylib](https://github.com/raysan5/raylib). It is currently in a very early stage (alpha) and thus:
+# go-libpartikel
+Partikel is a particle system written in Go with and for [raylib](https://github.com/raysan5/raylib). It is currently in a very early stage (alpha) and thus:
 
 * There will be bugs.
 * The API will most certainly change.
